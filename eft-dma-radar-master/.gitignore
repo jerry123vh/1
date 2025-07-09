@@ -1,0 +1,13 @@
+/eft-dma-radar/bin
+/eft-dma-radar/obj
+/arena-dma-radar/bin
+/arena-dma-radar/obj
+/eft-dma-shared/bin
+/eft-dma-shared/obj
+eft-dma-radar/eft-dma-radar.csproj.user
+arena-dma-radar/arena-dma-radar.csproj.user
+*.vsidx
+/.vscode
+/.vs
+*.tmp
+/eft-dma-radar/.vs
